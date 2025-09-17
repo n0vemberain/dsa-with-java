@@ -1,7 +1,6 @@
 
 // File name: Demo.java
 public class Demo {
-
     // Attribute (variable of the class)
     String name;
     int age;
